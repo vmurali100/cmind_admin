@@ -1,0 +1,19 @@
+.dashboard,table {
+    width: 98%;
+    margin: 0 auto;
+  }
+  
+  .mat-form-field {
+    font-size: 14px;
+    width: 90%;
+  }
+  
+  td, th {
+    width: 25%;
+  }
+  app-dashboard {
+    display: block !important;
+}
+app-dashboard.ng-star-inserted {
+    display: block;
+}
